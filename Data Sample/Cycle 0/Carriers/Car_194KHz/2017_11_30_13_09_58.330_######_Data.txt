@@ -1,2 +1,0 @@
-1 Volt is 16384 points
-Scale is 2.00 Volt peak
